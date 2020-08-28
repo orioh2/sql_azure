@@ -1,0 +1,1 @@
+select top 20 * from pwa_imp_m08
